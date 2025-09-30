@@ -19,8 +19,6 @@ It can handle multiple links at once and works with different WordPress setups (
   - Selenium/Playwright (when JavaScript rendering is needed)  
 - 🛡️ Error handling for blocked APIs or incorrect URLs.  
 
----
-
 ## ⚙️ Prerequisites  
 
 Before running this script, make sure you have:  
@@ -29,7 +27,6 @@ Before running this script, make sure you have:
 - ✅ Installed required dependencies from `requirements.txt`  
 - ✅ (Optional) Browser driver (managed automatically by `webdriver-manager`)  
 
----
 
 ## 📦 Installation  
 
